@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdleShooting", "IdleShooting.csproj", "{C0C15CEF-AB9B-C280-F8DF-FFF7D71C505E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdleShooting.Editor", "IdleShooting.Editor.csproj", "{8BBA8486-E434-059B-B1A3-4126F0392020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C15CEF-AB9B-C280-F8DF-FFF7D71C505E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C15CEF-AB9B-C280-F8DF-FFF7D71C505E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C15CEF-AB9B-C280-F8DF-FFF7D71C505E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C15CEF-AB9B-C280-F8DF-FFF7D71C505E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBA8486-E434-059B-B1A3-4126F0392020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBA8486-E434-059B-B1A3-4126F0392020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBA8486-E434-059B-B1A3-4126F0392020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBA8486-E434-059B-B1A3-4126F0392020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

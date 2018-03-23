@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4774d52e9e9df0543ba6d40004abcef6
+timeCreated: 1518277669
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MF ShangHei (Noncommercial)
+  fontNames:
+  - MF ShangHei (Noncommercial)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
